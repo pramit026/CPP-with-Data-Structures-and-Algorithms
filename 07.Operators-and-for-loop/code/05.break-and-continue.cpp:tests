@@ -1,0 +1,18 @@
+[
+	{
+		"correct_answers":
+		[
+			"1\n12\n123\n1234\n12345",
+			"prime",
+			"1\n2\n3\n4\n5\n6\n7\n8\n9"
+		],
+		"test": "5\n"
+	},
+	{
+		"correct_answers":
+		[
+			"not prime"
+		],
+		"test": "55\n"
+	}
+]

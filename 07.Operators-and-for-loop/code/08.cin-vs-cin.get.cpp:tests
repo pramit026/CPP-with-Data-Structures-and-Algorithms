@@ -1,0 +1,15 @@
+[
+	{
+		"test": "a\ns\nd\n \ng\nh\no\n$\n"
+	},
+	{
+		"test": "asd \tghi$hhhhhh\n"
+	},
+	{
+		"correct_answers":
+		[
+			"10"
+		],
+		"test": "a\ns\nd\n \ng\n$\n"
+	}
+]
