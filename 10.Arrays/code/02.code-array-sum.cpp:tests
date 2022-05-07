@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"sum is 26"
+		],
+		"test": "3\n9 8 9\n"
+	},
+	{
+		"correct_answers":
+		[
+			"sum is 15"
+		],
+		"test": "5\n1 2 3 4 5\n"
+	}
+]
