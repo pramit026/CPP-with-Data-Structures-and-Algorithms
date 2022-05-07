@@ -1,0 +1,43 @@
+[
+	{
+		"correct_answers":
+		[
+			"11",
+			"Enter the value of a and b: \nSum is 11"
+		],
+		"test": "5 6\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the value of a and b: \nSum is 11"
+		],
+		"test": "5 6 \n"
+	},
+	{
+		"test": "5 6\n"
+	},
+	{
+		"test": "5 6\n"
+	},
+	{
+		"test": "2 3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the value of a and b: \nSum is 3"
+		],
+		"test": "1 2\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the value of a and b: \nSum is 7"
+		],
+		"test": "3 4\n"
+	},
+	{
+		"test": "69 69\n"
+	}
+]

@@ -1,0 +1,41 @@
+[
+	{
+		"correct_answers":
+		[
+			"1 \n1 2 \n1 2 3 \n1 2 3 4"
+		],
+		"test": "4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1 \n1 2 \n1 2 3"
+		],
+		"test": "3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1\n23\n456\n78910",
+			"1 \n2 3 \n4 5 6 \n7 8 9 10"
+		],
+		"test": "4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1\n 23\n345",
+			"1\n 23\n456",
+			"1 \n2 3 \n4 5 6"
+		],
+		"test": "3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1\n  23\n 345\n4567",
+			"1\n  23\n 456\n78910"
+		],
+		"test": "4\n"
+	}
+]

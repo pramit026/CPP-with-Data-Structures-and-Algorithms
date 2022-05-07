@@ -1,0 +1,18 @@
+[
+	{
+		"correct_answers":
+		[
+			"65\n6566\n656667\n65666768",
+			"ABCD\nBCDE\nCDEF\nDEFG",
+			"ABCD\nABCD\nABCD\nABCD"
+		],
+		"test": "4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"ABCDE\nBCDEF\nCDEFG\nDEFGH\nEFGHI"
+		],
+		"test": "5\n"
+	}
+]

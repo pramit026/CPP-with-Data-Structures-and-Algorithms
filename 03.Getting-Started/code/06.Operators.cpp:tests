@@ -1,0 +1,15 @@
+[
+	{
+		"correct_answers":
+		[
+			"37\n1",
+			"37\n1\nAre they equal: 0\nis A greater: 1\nis A less than b: 0\nNot equal 1\n0\n1",
+			"37",
+			"37\n1\nAre they equal: 0\nis A greater: 1\nis A less than b: 0"
+		],
+		"test": "100\n5 4\n"
+	},
+	{
+		"test": "100\n22\n34\n"
+	}
+]

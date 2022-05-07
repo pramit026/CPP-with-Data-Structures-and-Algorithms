@@ -1,0 +1,34 @@
+[
+	{
+		"correct_answers":
+		[
+			"D\nCD\nBCD\nABCD"
+		],
+		"test": "4\n",
+		"uncorrect_answers":
+		[
+			"D\nDE\nDEF\nDEFG"
+		]
+	},
+	{
+		"correct_answers":
+		[
+			"E\nDE\nCDE\nBCDE\nABCDE"
+		],
+		"test": "5\n"
+	},
+	{
+		"correct_answers":
+		[
+			"H\nGH\nFGH\nEFGH\nDEFGH\nCDEFGH\nBCDEFGH\nABCDEFGH"
+		],
+		"test": "8\n"
+	},
+	{
+		"correct_answers":
+		[
+			"E\nDE\nCDE\nBCDE\nABCDE"
+		],
+		"test": "5\n"
+	}
+]

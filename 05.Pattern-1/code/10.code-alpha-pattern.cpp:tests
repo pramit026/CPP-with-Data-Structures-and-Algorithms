@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"A\nBB\nCCC"
+		],
+		"test": "3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"A\nBB\nCCC\nDDDD\nEEEEE\nFFFFFF\nGGGGGGG"
+		],
+		"test": "7\n"
+	}
+]

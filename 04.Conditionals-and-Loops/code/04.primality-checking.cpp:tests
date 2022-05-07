@@ -1,0 +1,28 @@
+[
+	{
+		"test": "5\n6\n"
+	},
+	{
+		"test": "6\n3\n3\n\n\n3\n\n3\n\n3\n\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Prime"
+		],
+		"test": "7\n"
+	},
+	{
+		"test": "4\n"
+	},
+	{
+		"test": "4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Not Prime"
+		],
+		"test": "6\n"
+	}
+]

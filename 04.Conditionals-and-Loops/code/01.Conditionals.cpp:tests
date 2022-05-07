@@ -1,0 +1,22 @@
+[
+	{
+		"correct_answers":
+		[
+			"They are not equal"
+		],
+		"test": "3 4\n"
+	},
+	{
+		"test": "4 4\n"
+	},
+	{
+		"test": "3 4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Odd"
+		],
+		"test": "5\n"
+	}
+]
